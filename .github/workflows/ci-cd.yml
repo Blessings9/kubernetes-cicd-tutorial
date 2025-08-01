@@ -71,4 +71,4 @@ jobs:
           git commit -m "Update image to ${IMAGE_TAG}"
 
           # Push
-          git push -f https://${GIT_TOKEN}@github.com/Blessings/grade-api-gitops.git main
+          git push -f https://${GIT_TOKEN}@github.com/Blessings9/grade-api-gitops.git main
